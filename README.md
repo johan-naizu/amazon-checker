@@ -20,6 +20,16 @@ Before you start using Amazon Checker, make sure you have the following installe
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/johan-naizu/amazon-checker.git
-cd amazon-checker
+    ```bash
+    git clone https://github.com/johan-naizu/amazon-checker.git
+    cd amazon-checker
+Install the required Python packages:
+
+    ```bash
+      pip install -r requirements.txt
+
+
+### Usage
+
+    ```bash
+      python script.py
